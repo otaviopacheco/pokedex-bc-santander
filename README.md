@@ -1,1 +1,1 @@
-# Não consegui desenvolver o desafio de codigo proposto na ultima aula, do projeto da pokedex, então criei esse repositorio como prova da minha participação 
+# Não consegui desenvolver o desafio de codigo proposto na ultima aula, do projeto da pokedex, então criei esse repositorio como prova da minha participação. para visualizar acesse a branch master. obrigado.
