@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+
+.content {
+  text-align: center;
+  max-width: 768px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #bf3029;
+  text-align: center;
+  max-height: 77%;
+  max-width: 40%;
+  border-radius: 1rem;
+  margin: 0 auto;
+}
+
+.card .pokemon {
+  text-transform: capitalize;
+  padding: 1rem;
+  border-bottom: solid 1px black;
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.pokemon__detail {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.card img {
+  margin-top: 1rem;
+  max-width: 60%;
+  height: 10%;
+  display: block;
+}
+
+.types li {
+  border: 1px solid cornflowerblue;
+  padding: 0.23rem;
+  margin: 0.4rem 0.2rem;
+  border-radius: 0.425rem;
+  background-color: cyan;
+}
+
+ul li {
+  list-style: none;
+  margin: 0.345rem 0 0 0;
+}
+
+.stats {
+  border-bottom: 1px solid black;
+  display: block;
+  margin: 0 auto;
+  align-self: center;
+}
